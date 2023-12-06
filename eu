@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Meu Site com CSS</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+  <header>
+    <h1>Bem-vindo ao Meu Site!</h1>
+  </header>
+
+  <main>
+    <h2>Sobre Mim</h2>
+    <p>Olá! Meu nome é Thais Santos e este é o meu site.</p>
+    <p>Estou aprendendo a criar sites e isso é apenas um exemplo simples para começar.</p>
+    <img src="C:\Users\thais linda\Desktop\8e15faff-ec82-4556-8a03-b107bae716d7.jpeg" alt="Minha Foto">
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Meu Site</p>
+  </footer>
+
+</body>
+</html>
